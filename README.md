@@ -25,28 +25,35 @@ Feel free to connect with me:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/bigbluebutton/bigbluebutton"><b>BigBlueButton</b></a></td>
+      <td><a href="https://github.com/bigbluebutton/bigbluebutton"><img src="https://bigbluebutton.org/wp-content/uploads/2021/01/BigBlueButton_icon.svg.png" style="width:20px; height:20px; vertical-align:middle;"/> <b>BigBlueButton</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/bigbluebutton/bigbluebutton?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/bigbluebutton/bigbluebutton?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bigbluebutton/bigbluebutton?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/bigbluebutton/bigbluebutton-api-php"><b>BigBlueButton PHP API</b></a></td>
+      <td><a href="https://github.com/forkcms/forkcms"><img src="https://www.fork-cms.com/frontend/themes/public/apple-touch-icon.png" style="width:20px; height:20px; vertical-align:middle;"/> <b>Fork CMS</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/forkcms/forkcms?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/forkcms/forkcms?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/forkcms/forkcms?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/forkcms/forkcms?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/bigbluebutton/bigbluebutton-api-php"><img src="https://bigbluebutton.org/wp-content/uploads/2021/01/BigBlueButton_icon.svg.png" style="width:20px; height:20px; vertical-align:middle;"/> <b>BigBlueButton PHP API</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/bigbluebutton/bigbluebutton-api-php?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/bigbluebutton/bigbluebutton-api-php?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/bigbluebutton/bigbluebutton-api-php?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bigbluebutton/bigbluebutton-api-php?style=flat-square&labelColor=343b41"/></td>
     </tr>
    <tr>
-      <td><a href="https://github.com/bcosca/fatfree"><b>Fat-Free Framework</b></a></td>
+      <td><a href="https://github.com/bcosca/fatfree"><img src="https://fatfreeframework.com/gui/img/f3_fav_57_precomposed.png" style="width:20px; height:20px; vertical-align:middle;"/> <b>Fat-Free Framework</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/bcosca/fatfree?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/bcosca/fatfree?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/bcosca/fatfree?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bcosca/fatfree?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/riadvice/bbbeasy"><b>BBBeasy</b></a></td>
+      <td><a href="https://github.com/riadvice/bbbeasy"><img src="https://raw.githubusercontent.com/riadvice/bbbeasy/develop/bbbeasy-frontend/public/images/logo_02.png" style="width:20px;vertical-align:middle;"/> <b>BBBeasy</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/riadvice/bbbeasy?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/riadvice/bbbeasy?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/riadvice/bbbeasy?style=flat-square&labelColor=343b41"/></td>
@@ -55,7 +62,7 @@ Feel free to connect with me:
   </tbody>
 </table>
 
-## ⚡ Technologies
+## 🧑‍💻 Technologies
 
 ### Programming languages
 
@@ -132,9 +139,14 @@ Feel free to connect with me:
 
 ### Graphic design
 
-![FontForge](https://img.shields.io/badge/-FontForge-white?style=flat-square&logo=fontforge)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-white?style=flat-square&logo=adobephotoshop)
 ![Illustrator](https://img.shields.io/badge/-Photoshop-white?style=flat-square&logo=adobeillustrator)
+![InDesign](https://img.shields.io/badge/-InDesign-white?style=flat-square&logo=adobeindesign)
+![FontForge](https://img.shields.io/badge/-FontForge-white?style=flat-square&logo=fontforge)
+
+### Project Management
+
+![ProjeQtOr](https://img.shields.io/badge/-ProjeQtOr-4f4e7c?style=flat-square&logo=projeqtor)
 
 ### Administration
 
@@ -142,7 +154,43 @@ Feel free to connect with me:
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel)
 ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint)
 
-## Achievements
+## 🏆 Awards
+
+ I am proud that I have been the <b>Project Manager</b> of the globally award-winning project <b>Mobilizing the 12th Man</b> ⚽
+
+[![Mobilizing the 12th Man](https://i.ytimg.com/vi/1YHX0y71kWM/hqdefault.jpg)](https://www.youtube.com/watch?v=YHX0y71kWM)
+
+> For security reasons, no fans are allowed in Tunisian stadiums anymore. Forcing teams and fans in a long distance relationship. After average results throughout the season and, with the year's most important game approaching, Historical Football team C.S. Hammam-Lif needed the support of its fans. The 12th Man App -- a mobile application that connects fans to 40 speakers in the stadium and allows them to cheer on their team while watching the game live on TV. Fans can sing, shout, applaud and more ... Just by tapping on sound icons. The more fans tap, the sounder the sound in the stadium.
+
+The project collected 40+ rewards:
+
+**Cannes Lions · 2013 - 5 Silver Lions & 2 Bronze Lions**
+1. Silver Lion : Mobile Lions | Other Technology for Mobile
+2. Silver Lion : Mobile Lions | Best Integrated Campaign Led By Mobile
+3. Silver Lion : Media Lions | Best Use of Audio
+4. Silver Lion : Promo & Activation Lions | Best Use of Other Digital Media in a Promotional Campaign
+5. Silver Lion : Outdoor Lions | Stunts & Live Advertising
+6. Bronze Lion : Branded Content & Entertainment | Best non-fiction program, series or film where a client has successfully created a reality, documentary or entertainment show around a product(s) or brand(s)
+7. Bronze Lion : Branded Content & Entertainment | Best use or integration of digital or social media
+
+**CLIO Awards · 2014 - 1 Grand Clio, 2 Gold, 1 Silver & 2 Bronze**
+1. Grand Clio sports social digital[🔗](https://clios.com/sports/winner/digital-social/mobilizing-the-12th-man-5107)
+1. Gold Winner in Digital/Social Category, Entry Type: Product/Service[🔗](https://clios.com/awards/winner/direct/mobilizing-the-12th-man-3218)
+2. Silver engagement[🔗](https://clios.com/awards/winner/engagement/mobilizing-the-12th-man-3217)
+3. Bronze branded content documentary[🔗](https://clios.com/awards/winner/branded-entertainment-content/mobilizing-the-12th-man-3216)
+4. Bronze social digital[🔗](https://clios.com/awards/winner/digital-social/mobilizing-the-12th-man-3219)
+5. Bronze Out of Home[🔗](https://clios.com/awards/winner/out-of-home/mobilizing-the-12th-man-3220)
+
+Bronze digital/social "Mobilizing the 12th Man"
+
+**Dubai Lynx · 2014 - 2 Grand Prix, 6 Gold, 11 Silver, 17 Bronze**
+1. Media Grand Prix – 1 Grand Prix, 5 Gold, 11 Silver, 17 Bronze
+1. Mobile Grand Prix – 1 Grand Prix, 1 Gold
+
+**D&AD Pencil Awards · 2014 - 1 Wood Pencil**
+1. Tactical Outdoor Advertising - 1 Wood Pencil [🔗](https://www.dandad.org/awards/professional/2014/outdoor-advertising/23157/mobilizing-the-12th-man/)
+
+## Open-source Achievements
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GhaziTriki&show=reviews,discussions_started,discussions_answered&&show_icons=true&theme=shadow_blue&rank_icon=github&count_private=true&include_all_commits=true&number_format=long)
 
