@@ -2,7 +2,7 @@
 
 
 
-I am Ghazi Triki, as the Information Technology Director at [RIADVICE](https://riadvice.tn), I spearheaded strategic consulting services for customers, guiding them in product implementation and designing hybrid (bare-metal and cloud) infrastructures for seamless migration. My leadership and technical expertise contributed significantly to several successful projects commercial and open-source projects.
+I am Ghazi Triki, as the Information Technology Director at <img  src="https://riadvice.tn/wp-content/uploads/fbrfg/favicon-16x16.png"> [RIADVICE](https://riadvice.tn), I spearheaded strategic consulting services for customers, guiding them in product implementation and designing hybrid (bare-metal and cloud) infrastructures for seamless migration. My leadership and technical expertise contributed significantly to several successful projects commercial and open-source projects.
 
 I helped customers from the following countries: 🇫🇷  France, 🇺🇲 United States, 🇹🇷 Türkiye, 🇵🇹 Portugal, 🇰🇷 South Korea, 🇨🇦 Canada, 🇪🇪 Estonia, 🇴🇲 Oman, 🇩🇪 Germany, 🇦🇹 Austria, 🇲🇦 Morocco, 🇨🇾 Cyprus, 🇵🇱 Poland, 🇪🇬 Egypt, 🇦🇿 Azerbaijan, 🇨🇳 China, 🇬🇧 United Kingdom, 🇸🇦 Saudi Arabia, 🇧🇪 Belgium, 🇦🇪 United Aab Emirates, 🇳🇬 Nigeria, 🇱🇧 Lebanon, 🇮🇹 Italy, 🇬🇷 Greece, 🇧🇩 Bangladesh, 🇩🇰 Denmark, 🇰🇼 Kuwait, 🇪🇸 Spain, 🇨🇿 Czech Republic, 🇿🇦 South Africa, 🇲🇽 Mexico, 🇸🇪 Sweden, 🇳🇿 New Zealand, 🇹🇳 Tunisia, 🇶🇦 Qatar, 🇯🇴 Jordan, 🇨🇭 Switzerland, 🇨🇮 Ivory Coast, 🇧🇷 Brazil, 🇮🇳 India, 🇳🇱 Netherlands, 🇦🇺 Australia, 🇭🇰 Hong Kong.
 
@@ -74,8 +74,11 @@ Feel free to connect with me:
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony)
 ![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)
 ![CakePHP](https://img.shields.io/badge/-CakePHP-white?style=flat-square&logo=cakephp)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-white?style=flat-square&logo=codeigniter)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=rubyonrails)
 
+
+![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery)
 
 ### DevOps & CI
 
