@@ -162,7 +162,7 @@ Feel free to connect with me:
 
 > For security reasons, no fans are allowed in Tunisian stadiums anymore. Forcing teams and fans in a long distance relationship. After average results throughout the season and, with the year's most important game approaching, Historical Football team C.S. Hammam-Lif needed the support of its fans. The 12th Man App -- a mobile application that connects fans to 40 speakers in the stadium and allows them to cheer on their team while watching the game live on TV. Fans can sing, shout, applaud and more ... Just by tapping on sound icons. The more fans tap, the sounder the sound in the stadium.
 
-The project collected 40+ rewards:
+The project collected 60+ rewards:
 
 **Cannes Lions · 2013 - 5 Silver Lions & 2 Bronze Lions**
 1. Silver Lion : Mobile Lions | Other Technology for Mobile
@@ -173,19 +173,39 @@ The project collected 40+ rewards:
 6. Bronze Lion : Branded Content & Entertainment | Best non-fiction program, series or film where a client has successfully created a reality, documentary or entertainment show around a product(s) or brand(s)
 7. Bronze Lion : Branded Content & Entertainment | Best use or integration of digital or social media
 
+**EPICA AWARDS · 2013 - 1 Grand Prix & 1 Bronze**
+1. Grand Prix interactif media & entertainmt
+2. Silver mobile communications
+
+**EPICALONDON INTERNATIONAL AWARDS · 2013 - 1 Silver, 2 Bronze & 2 Finalist**
+1. Silver non-trad interactive installations
+2. Bronze non-trad live events beyond adv
+3. Bronze non-trad sports
+4. Finalist digital mobile apps
+5. Finalist integrated
+
+**ISPO · 2013 - 1 Grand Prix**
+1. Grand Prix Communication of the year.
+
 **CLIO Awards · 2014 - 1 Grand Clio, 2 Gold, 1 Silver & 2 Bronze**
 1. Grand Clio sports social digital[🔗](https://clios.com/sports/winner/digital-social/mobilizing-the-12th-man-5107)
-1. Gold Winner in Digital/Social Category, Entry Type: Product/Service[🔗](https://clios.com/awards/winner/direct/mobilizing-the-12th-man-3218)
-2. Silver engagement[🔗](https://clios.com/awards/winner/engagement/mobilizing-the-12th-man-3217)
-3. Bronze branded content documentary[🔗](https://clios.com/awards/winner/branded-entertainment-content/mobilizing-the-12th-man-3216)
-4. Bronze social digital[🔗](https://clios.com/awards/winner/digital-social/mobilizing-the-12th-man-3219)
-5. Bronze Out of Home[🔗](https://clios.com/awards/winner/out-of-home/mobilizing-the-12th-man-3220)
+2. Gold Winner in Digital/Social Category, Entry Type: Product/Service[🔗](https://clios.com/awards/winner/direct/mobilizing-the-12th-man-3218)
+3. Silver engagement[🔗](https://clios.com/awards/winner/engagement/mobilizing-the-12th-man-3217)
+4. Bronze branded content documentary[🔗](https://clios.com/awards/winner/branded-entertainment-content/mobilizing-the-12th-man-3216)
+5. Bronze social digital[🔗](https://clios.com/awards/winner/digital-social/mobilizing-the-12th-man-3219)
+6. Bronze Out of Home[🔗](https://clios.com/awards/winner/out-of-home/mobilizing-the-12th-man-3220)
 
 Bronze digital/social "Mobilizing the 12th Man"
 
-**Dubai Lynx · 2014 - 2 Grand Prix, 6 Gold, 11 Silver, 17 Bronze**
+**Dubai Lynx · 2014 - 2 Grand Prix, 6 Gold, 11 Silver, 17 Bronze** [🔗](https://www.lbbonline.com/news/11-categories-with-no-grand-prix-at-dubai-lynx)
 1. Media Grand Prix – 1 Grand Prix, 5 Gold, 11 Silver, 17 Bronze
-1. Mobile Grand Prix – 1 Grand Prix, 1 Gold
+2. Mobile Grand Prix – 1 Grand Prix, 1 Gold
+
+**Oneshow Interactive · 2014 - 1 Gold, 2 Bronze Gold, 1 Merit Award**
+1. Gold pencil in social networks/app/community
+2. Bronze pencil in digital direct/mobile
+3. Bronze pencil in documentaries/documenting
+4. Merit award experiential/events & competition
 
 **D&AD Pencil Awards · 2014 - 1 Wood Pencil**
 1. Tactical Outdoor Advertising - 1 Wood Pencil [🔗](https://www.dandad.org/awards/professional/2014/outdoor-advertising/23157/mobilizing-the-12th-man/)
