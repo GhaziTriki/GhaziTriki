@@ -39,7 +39,7 @@ Feel free to connect with me:
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/forkcms/forkcms?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/bigbluebutton/bigbluebutton-api-php"><img src="https://bigbluebutton.org/wp-content/uploads/2021/01/BigBlueButton_icon.svg.png" style="width:20px; height:20px; vertical-align:middle;"/> <b>BigBlueButton PHP API</b></a></td>
+      <td><a href="https://github.com/bigbluebutton/bigbluebutton-api-php"><img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" style="width:20px;  vertical-align:middle;"/> <b>BigBlueButton PHP API</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/bigbluebutton/bigbluebutton-api-php?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/bigbluebutton/bigbluebutton-api-php?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/bigbluebutton/bigbluebutton-api-php?style=flat-square&labelColor=343b41"/></td>
@@ -117,6 +117,7 @@ Feel free to connect with me:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb)
+![SQLite](https://img.shields.io/badge/-Sqlite-003d5a?style=flat-square&logo=sqlite)
 ![H2](https://img.shields.io/badge/-H2-131c9b?style=flat-square&logo=h2)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
