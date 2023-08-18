@@ -6,21 +6,20 @@ I'm delighted to see you here! Let's connect and get to know each other better.
 
 ### About Me
 
-I'm a dynamic Technical Director hailing from Tunisian shores, known for my ingenious strategies in technology and innovation globally. Currently, at [RIADVICE](https://riadvice.tn),I am redefining the technological landscape. My contributions are far-reaching, as I've been instrumental in pioneering strategic consulting services and crafting hybrid infrastructures that seamlessly blend bare-metal and cloud technologies.
+I'm a dynamic Technical Director hailing from Tunisian shores, known for my resourceful strategies in technology and innovation globally. Currently, at [RIADVICE](https://riadvice.tn), I am redefining the technological landscape. My contributions are far-reaching, as I've been instrumental in pioneering strategic consulting services and crafting hybrid infrastructures that seamlessly blend bare-metal and cloud technologies.
 
-My contributions have been pivotal in the success of numerous commercial and open - source projects. I've nurtured global partnerships with industry giants like OVHcloud and Datacomm, and have also expanded our horizons across multiple countries namely - 
+My contributions have been pivotal in the success of numerous commercial and open - source projects. I've nurtured global partnerships with industry giants like OVHcloud and Datacomm, and have also expanded our horizons across multiple countries namely -
 
-🇫🇷 France 🇺🇲 United States 🇹🇷 Turkey 🇵🇹 Portugal 🇰🇷 South Korea 🇨🇦 Canada 🇪🇪 Estonia 🇴🇲 Oman 🇩🇪 Germany 🇦🇹 Austria
-🇲🇦 Morocco 🇨🇾 Cyprus 🇵🇱 Poland 🇪🇬 Egypt 🇦🇿 Azerbaijan 🇨🇳 China 🇬🇧 United Kingdom 🇸🇦 Saudi Arabia 🇧🇪 Belgium
-🇦🇪 United Arab Emirates 🇳🇬 Nigeria 🇱🇧 Lebanon 🇮🇹 Italy 🇬🇷 Greece 🇧🇩 Bangladesh 🇩🇰 Denmark 🇰🇼 Kuwait
-🇪🇸 Spain 🇨🇿 Czech Republic 🇿🇦 South Africa 🇲🇽 Mexico 🇸🇪 Sweden 🇳🇿 New Zealand 🇹🇳 Tunisia 🇶🇦 Qatar
-🇯🇴 Jordan 🇨🇭 Switzerland 🇨🇮 Ivory Coast 🇧🇷 Brazil 🇮🇳 India 🇳🇱 Netherlands 🇦🇺 Australia 🇭🇰 Hong Kong
-
-Can position > 🇸🇦 Saudi Arabia, 🇦🇪 United Arab Emirates, 🇴🇲 Oma, 🇶🇦 Qatar and 🇰🇼 Kuwait in the front as they are our target markets and recruiters can view easily we have worked in these countries.
+🇸🇦 Saudi Arabia 🇦🇪 United Arab Emirates 🇴🇲 Oman 🇶🇦 Qatar 🇰🇼 Kuwait
+🇫🇷 France 🇺🇲 United States 🇹🇷 Turkey 🇵🇹 Portugal 🇰🇷 South Korea 🇨🇦 Canada 🇪🇪 Estonia 🇩🇪 Germany 🇦🇹 Austria
+🇲🇦 Morocco 🇨🇾 Cyprus 🇵🇱 Poland 🇪🇬 Egypt 🇦🇿 Azerbaijan 🇨🇳 China 🇬🇧 United Kingdom 🇧🇪 Belgium 🇩🇰 Denmark
+🇳🇬 Nigeria 🇱🇧 Lebanon 🇮🇹 Italy 🇬🇷 Greece 🇧🇩 Bangladesh 🇯🇴 Jordan 🇹🇳 Tunisia
+🇪🇸 Spain 🇨🇿 Czech Republic 🇿🇦 South Africa 🇲🇽 Mexico 🇸🇪 Sweden 🇳🇿 New Zealand
+🇨🇭 Switzerland 🇨🇮 Ivory Coast 🇧🇷 Brazil 🇮🇳 India 🇳🇱 Netherlands 🇦🇺 Australia 🇭🇰 Hong Kong
 
 🌐 Fluent in the Language of Possibility 🌐
 
-Apart from coding languages, I speak Arabic and French, both at a native or bilingual level, and I'm highly proficient in English.
+Apart from coding languages, I speak **Arabic** and **French**, both at a native or bilingual level, and I'm highly proficient in **English**.
 
 Here are the top 5 ways you can connect with me to explore limitless possibilities 🚀🌟
 
