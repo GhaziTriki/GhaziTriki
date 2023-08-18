@@ -1,13 +1,14 @@
-## Hello, I'm Ghazi Triki! 👋
+## ⬅️ This is me Ghazi Triki!
 
 I'm delighted to see you here! Let's connect and get to know each other better.
 
+[![BigBlueButton Badge](https://img.shields.io/badge/BigBlueButton-Core%20Committer-283274?style=social&logo=BigBlueButton&link=https://github.com/bigbluebutton/bigbluebutton/graphs/contributors)](https://github.com/bigbluebutton/bigbluebutton/graphs/contributors)
+
 ### About Me
 
-I'm Ghazi Triki, the Technical Director at [RIADVICE](https://riadvice.tn), where I lead strategic consulting services and provide technical guidance to clients. With a focus on product implementation and hybrid infrastructure design (combining bare-metal and cloud solutions), I've contributed to the success of numerous commercial and open-source projects.
+I'm a dynamic Technical Director hailing from Tunisian shores, known for my ingenious strategies in technology and innovation globally. Currently, at [RIADVICE](https://riadvice.tn),I am redefining the technological landscape. My contributions are far-reaching, as I've been instrumental in pioneering strategic consulting services and crafting hybrid infrastructures that seamlessly blend bare-metal and cloud technologies.
 
-
-I'm proud to have worked with clients from various countries around the world, including:
+My contributions have been pivotal in the success of numerous commercial and open - source projects. I've nurtured global partnerships with industry giants like OVHcloud and Datacomm, and have also expanded our horizons across multiple countries namely - 
 
 🇫🇷 France 🇺🇲 United States 🇹🇷 Turkey 🇵🇹 Portugal 🇰🇷 South Korea 🇨🇦 Canada 🇪🇪 Estonia 🇴🇲 Oman 🇩🇪 Germany 🇦🇹 Austria
 🇲🇦 Morocco 🇨🇾 Cyprus 🇵🇱 Poland 🇪🇬 Egypt 🇦🇿 Azerbaijan 🇨🇳 China 🇬🇧 United Kingdom 🇸🇦 Saudi Arabia 🇧🇪 Belgium
@@ -15,7 +16,13 @@ I'm proud to have worked with clients from various countries around the world, i
 🇪🇸 Spain 🇨🇿 Czech Republic 🇿🇦 South Africa 🇲🇽 Mexico 🇸🇪 Sweden 🇳🇿 New Zealand 🇹🇳 Tunisia 🇶🇦 Qatar
 🇯🇴 Jordan 🇨🇭 Switzerland 🇨🇮 Ivory Coast 🇧🇷 Brazil 🇮🇳 India 🇳🇱 Netherlands 🇦🇺 Australia 🇭🇰 Hong Kong
 
-Feel free to reach out and connect with me:
+Can position > 🇸🇦 Saudi Arabia, 🇦🇪 United Arab Emirates, 🇴🇲 Oma, 🇶🇦 Qatar and 🇰🇼 Kuwait in the front as they are our target markets and recruiters can view easily we have worked in these countries.
+
+🌐 Fluent in the Language of Possibility 🌐
+
+Apart from coding languages, I speak Arabic and French, both at a native or bilingual level, and I'm highly proficient in English.
+
+Here are the top 5 ways you can connect with me to explore limitless possibilities 🚀🌟
 
 [![Linkedin Badge](https://img.shields.io/badge/-GhaziTriki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/GhaziTriki/)](https://www.linkedin.com/in/GhaziTriki/)
 [![Gmail Badge](https://img.shields.io/badge/-ghazi.triki@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghazi.triki@gmail.com)](mailto:ghazi.triki@gmail.com)
@@ -74,7 +81,11 @@ Feel free to reach out and connect with me:
   </tbody>
 </table>
 
-## Skills & Technologies
+## 🧗🏾 My best challenges stories
+
+Leading by example, I spearheaded a visionary project – a public cloud web-conferencing platform capable of hosting 12,000 concurrent users. Not stopping there, I orchestrated Mainz University's transformation, empowering them to accommodate a staggering 50,000 concurrent users for web-conferencing. My architectural prowess even graced Virgin Voyages cruise ships, where a cutting-edge web-conferencing platform now sails the seas. 🛥️
+
+##  Skills & Technologies
 
 |   Programming Languages    |    Frameworks     |    DevOps & CI    |       Build       |   Software Tools   |     Databases     |
 |:-------------------------:|:-----------------:|:-----------------:|:-----------------:|:------------------:|:-----------------:|
@@ -86,8 +97,9 @@ Feel free to reach out and connect with me:
 | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-white?style=flat-square&logo=codeigniter) | ![Jenkins CI](https://img.shields.io/badge/-Jenkins%20CI-white?style=flat-square&logo=jenkins) | | | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 | | ![Yii](https://img.shields.io/badge/-Yii-FFD100?style=flat-square&logo=yii) | ![Selenium](https://img.shields.io/badge/-Selenium%20/%20Selenoid-white?style=flat-square&logo=selenium) | | | ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
 | | ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery) | | | | |
-| | ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=rubyonrails) | | | | |
+| | ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=rubyonrails) | | | |  |
 | | | | | | |
+
 
 
 | Cloud Infrastructure | Virtualization | Software Architecture | Graphic Design | Project Management | Administration |
@@ -95,7 +107,7 @@ Feel free to reach out and connect with me:
 | ![OVHcloud](https://img.shields.io/badge/-OVHcloud-123F6D?style=flat-square&logo=ovh) | ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox) | ![UML](https://img.shields.io/badge/-UML-FABD14?style=flat-square&logo=uml&logoColor=white) | ![Photoshop](https://img.shields.io/badge/-Photoshop-white?style=flat-square&logo=adobephotoshop) | ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white) | ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A?style=flat-square&logo=microsoftword) |
 | ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) | ![Vagrant](https://img.shields.io/badge/-Vagrant-0a56ce?style=flat-square&logo=vagrant) | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql) | ![Illustrator](https://img.shields.io/badge/-Illustrator-FFFFFF?style=flat-square&logo=adobeillustrator) | ![ProjeQtOr](https://img.shields.io/badge/-ProjeQtOr-4f4e7c?style=flat-square&logo=projeqtor) | ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel) |
 | ![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=flat-square&logo=oracle&logoColor=white) | ![Proxmox](https://img.shields.io/badge/-Proxmox-FFFFFF?style=flat-square&logo=proxmox) | | ![InDesign](https://img.shields.io/badge/-InDesign-FFFFFF?style=flat-square&logo=adobeindesign) | ![Zoho Books](https://img.shields.io/badge/-Zoho%20Books-0085c7?style=flat-square&logo=zoho) | ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint) |
-| ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) | ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) | | ![FontForge](https://img.shields.io/badge/-FontForge-3E745D?style=flat-square&logo=fontforge) | | |
+| ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) | ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) |  | ![FontForge](https://img.shields.io/badge/-FontForge-3E745D?style=flat-square&logo=fontforge) | |  ![Google Suite](https://img.shields.io/badge/-Google%20Suite-white?style=flat-square&logo=google) |
 | ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure) | | | | | |
 | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | | | | | |
 | ![Vultr](https://img.shields.io/badge/-Vultr-007BFC?style=flat-square&logo=vultr) | | | | | |
@@ -104,75 +116,24 @@ Feel free to reach out and connect with me:
 
 ## 🏆 Awards
 
- I am proud that I have been the <b>Project Manager</b> of the globally award-winning project <b>Mobilizing the 12th Man</b> ⚽
+🏟️ Bridging the Gap: Connecting Football Fans to Their Team 🏟️
+
 
 [![Mobilizing the 12th Man](https://i.ytimg.com/vi/1YHX0y71kWM/hqdefault.jpg)](https://www.youtube.com/watch?v=YHX0y71kWM)
 
-> For security reasons, no fans are allowed in Tunisian stadiums anymore. Forcing teams and fans in a long distance relationship. After average results throughout the season and, with the year's most important game approaching, Historical Football team C.S. Hammam-Lif needed the support of its fans. The 12th Man App -- a mobile application that connects fans to 40 speakers in the stadium and allows them to cheer on their team while watching the game live on TV. Fans can sing, shout, applaud and more ... Just by tapping on sound icons. The more fans tap, the sounder the sound in the stadium.
+**🎙️🥁 "Mobilizing the 12th Man" ⚽🥳**
 
-The project collected 60+ rewards:
+In a world and a time 10 years back, where distance separated fans from their beloved Tunisian football stadiums, we pioneered a groundbreaking solution that brings the spirit of the fans back to the game!
 
-| **Cannes Lions · 2013** | **EPICA AWARDS · 2013** | **EPICALONDON INTERNATIONAL AWARDS · 2013** | **ISPO · 2013** | **CLIO Awards · 2014** | **Dubai Lynx · 2014** | **Oneshow Interactive · 2014** | **D&AD Pencil Awards · 2014** |
-|:-----------------------:|:----------------------:|:----------------------------------------:|:---------------:|:---------------------:|:-------------------:|:----------------------------:|:-----------------------------:|
-| 5 Silver Lions<br>2 Bronze Lions | 1 Grand Prix<br>1 Bronze | 1 Silver<br>2 Bronze<br>2 Finalist | 1 Grand Prix | 1 Grand Clio<br>2 Gold<br>1 Silver<br>2 Bronze | 2 Grand Prix<br>6 Gold<br>11 Silver<br>17 Bronze | 1 Gold<br>2 Bronze Gold<br>1 Merit Award | 1 Wood Pencil |
+As the Project Manager behind the "12th Man" App, I orchestrated an ingenious way for fans to be the heartbeat of the Historical Football team C.S. Hammam-Lif. 
 
-| **Cannes Lions · 2013** |
-|:-----------------------:|
-| Silver Lion: Mobile Lions - Other Technology for Mobile |
-| Silver Lion: Mobile Lions - Best Integrated Campaign Led By Mobile |
-| Silver Lion: Media Lions - Best Use of Audio |
-| Silver Lion: Promo & Activation Lions - Best Use of Other Digital Media in a Promotional Campaign |
-| Silver Lion: Outdoor Lions - Stunts & Live Advertising |
-| Bronze Lion: Branded Content & Entertainment - Best non-fiction program, series or film where a client has successfully created a reality, documentary or entertainment show around a product(s) or brand(s) |
-| Bronze Lion: Branded Content & Entertainment - Best use or integration of digital or social media |
+Imagine, 40 speakers scattered across the stadium, waiting for the tap of a fan's finger to roar with life. Through this mobile marvel, fans can sing, shout, applaud – all with a simple tap on sound icons. The collective taps synchronize into a thunderous wave of support coursing through the stadium, invigorating the team on the field. 
 
-| **EPICA AWARDS · 2013** |
-|:----------------------:|
-| Grand Prix interactif media & entertainmt |
-| Silver mobile communications |
+With this innovation, we garnered over 60+ global awards and bridged the gap between teams and fans, rekindling the passion that knows no bounds. A few prestigious accolades include Cannes Lion, Dubai Lynx, and CLIO Awards. [The "Mobilizing The 12th Man" project has stood out, earning 5 Silver Lions, 2 Bronze Lions, and a host of other honors.](https://github.com/GhaziTriki/GhaziTriki/blob/main/Mobilizing.md)
 
-| **EPICALONDON INTERNATIONAL AWARDS · 2013** |
-|:-------------------------------------------:|
-| Silver non-trad interactive installations |
-| Bronze non-trad live events beyond adv |
-| Bronze non-trad sports |
-| Finalist digital mobile apps |
-| Finalist integrated |
-
-| **ISPO · 2013** |
-|:----------------:|
-| Grand Prix Communication of the year. |
-
-| **CLIO Awards · 2014** |
-|:----------------------:|
-| Grand Clio sports social digital [🔗](https://clios.com/sports/winner/digital-social/mobilizing-the-12th-man-5107) |
-| Gold Winner in Digital/Social Category, Entry Type: Product/Service [🔗](https://clios.com/awards/winner/direct/mobilizing-the-12th-man-3218) |
-| Silver engagement [🔗](https://clios.com/awards/winner/engagement/mobilizing-the-12th-man-3217) |
-| Bronze branded content documentary [🔗](https://clios.com/awards/winner/branded-entertainment-content/mobilizing-the-12th-man-3216) |
-| Bronze social digital [🔗](https://clios.com/awards/winner/digital-social/mobilizing-the-12th-man-3219) |
-| Bronze Out of Home [🔗](https://clios.com/awards/winner/out-of-home/mobilizing-the-12th-man-3220) |
-
-Bronze digital/social "Mobilizing the 12th Man"
-
-| **Dubai Lynx · 2014** |
-|:--------------------:|
-| Media Grand Prix – 1 Grand Prix, 5 Gold, 11 Silver, 17 Bronze |
-| Mobile Grand Prix – 1 Grand Prix, 1 Gold |
-
-| **Oneshow Interactive · 2014** |
-|:------------------------------:|
-| Gold pencil in social networks/app/community |
-| Bronze pencil in digital direct/mobile |
-| Bronze pencil in documentaries/documenting |
-| Merit award experiential/events & competition |
-
-| **D&AD Pencil Awards · 2014** |
-|:----------------------------:|
-| Tactical Outdoor Advertising - 1 Wood Pencil [🔗](https://www.dandad.org/awards/professional/2014/outdoor-advertising/23157/mobilizing-the-12th-man/) |
 
 ## Open-source Achievements
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GhaziTriki&show=reviews,discussions_started,discussions_answered&&show_icons=true&theme=shadow_blue&rank_icon=github&count_private=true&include_all_commits=true&number_format=long)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GhaziTriki.GhaziTriki)
-
