@@ -80,11 +80,23 @@ Here are the top 5 ways you can connect with me to explore limitless possibiliti
   </tbody>
 </table>
 
-## 🧗🏾 Some unforgettable journeys
+## 🧗🏾 Some memorable journeys
 
 Leading by example, I spearheaded a visionary project – a public cloud web-conferencing platform capable of hosting 12,000 concurrent users. Not stopping there, I orchestrated [Mainz University's transformation](https://box.hu-berlin.de/d/62413f48b0554111ac6d/files/?p=%2FChristoph-Martin-bbb.rlp.net-meeting%202021-02-26.pdf&dl=1), empowering them to accommodate a staggering 50,000 concurrent users for web-conferencing. My architectural prowess even graced Virgin Voyages cruise ships, where a cutting-edge web-conferencing platform now sails the seas. 🛥️
 
 ## 👨🏻‍💻 Skills & Technologies
+
+| Cloud Infrastructure | Virtualization | Software Architecture | Graphic Design | Project Management | Administration |
+|:--------------------:|:--------------:|:--------------------:|:--------------:|:------------------:|:----------------:|
+| ![OVHcloud](https://img.shields.io/badge/-OVHcloud-123F6D?style=flat-square&logo=ovh) | ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox) | ![UML](https://img.shields.io/badge/-UML-FABD14?style=flat-square&logo=uml&logoColor=white) | ![Photoshop](https://img.shields.io/badge/-Photoshop-white?style=flat-square&logo=adobephotoshop) | ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white) | ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A?style=flat-square&logo=microsoftword) |
+| ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) | ![Vagrant](https://img.shields.io/badge/-Vagrant-0a56ce?style=flat-square&logo=vagrant) | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql) | ![Illustrator](https://img.shields.io/badge/-Illustrator-FFFFFF?style=flat-square&logo=adobeillustrator) | ![ProjeQtOr](https://img.shields.io/badge/-ProjeQtOr-4f4e7c?style=flat-square&logo=projeqtor) | ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel) |
+| ![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=flat-square&logo=oracle&logoColor=white) | ![Proxmox](https://img.shields.io/badge/-Proxmox-FFFFFF?style=flat-square&logo=proxmox) | | ![InDesign](https://img.shields.io/badge/-InDesign-FFFFFF?style=flat-square&logo=adobeindesign) | ![Zoho Books](https://img.shields.io/badge/-Zoho%20Books-0085c7?style=flat-square&logo=zoho) | ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint) |
+| ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) | ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) |  | ![FontForge](https://img.shields.io/badge/-FontForge-3E745D?style=flat-square&logo=fontforge) | |  ![Google Suite](https://img.shields.io/badge/-Google%20Suite-white?style=flat-square&logo=google) |
+| ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure) | | | | | |
+| ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | | | | | |
+| ![Vultr](https://img.shields.io/badge/-Vultr-007BFC?style=flat-square&logo=vultr) | | | | | |
+| ![GCore](https://img.shields.io/badge/-GCore-FFA518?style=flat-square&logo=gcore) | | | |
+| ![TailorMadeServers](https://img.shields.io/badge/-TailorMadeServers-3366CC?style=flat-square) | | | |
 
 |   Programming Languages    |    Frameworks     |    DevOps & CI    |       Build       |   Software Tools   |     Databases     |
 |:-------------------------:|:-----------------:|:-----------------:|:-----------------:|:------------------:|:-----------------:|
@@ -98,20 +110,6 @@ Leading by example, I spearheaded a visionary project – a public cloud web-con
 | | ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery) | | | | |
 | | ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=rubyonrails) | | | |  |
 | | | | | | |
-
-
-
-| Cloud Infrastructure | Virtualization | Software Architecture | Graphic Design | Project Management | Administration |
-|:--------------------:|:--------------:|:--------------------:|:--------------:|:------------------:|:----------------:|
-| ![OVHcloud](https://img.shields.io/badge/-OVHcloud-123F6D?style=flat-square&logo=ovh) | ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox) | ![UML](https://img.shields.io/badge/-UML-FABD14?style=flat-square&logo=uml&logoColor=white) | ![Photoshop](https://img.shields.io/badge/-Photoshop-white?style=flat-square&logo=adobephotoshop) | ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white) | ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A?style=flat-square&logo=microsoftword) |
-| ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) | ![Vagrant](https://img.shields.io/badge/-Vagrant-0a56ce?style=flat-square&logo=vagrant) | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql) | ![Illustrator](https://img.shields.io/badge/-Illustrator-FFFFFF?style=flat-square&logo=adobeillustrator) | ![ProjeQtOr](https://img.shields.io/badge/-ProjeQtOr-4f4e7c?style=flat-square&logo=projeqtor) | ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel) |
-| ![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=flat-square&logo=oracle&logoColor=white) | ![Proxmox](https://img.shields.io/badge/-Proxmox-FFFFFF?style=flat-square&logo=proxmox) | | ![InDesign](https://img.shields.io/badge/-InDesign-FFFFFF?style=flat-square&logo=adobeindesign) | ![Zoho Books](https://img.shields.io/badge/-Zoho%20Books-0085c7?style=flat-square&logo=zoho) | ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint) |
-| ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) | ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) |  | ![FontForge](https://img.shields.io/badge/-FontForge-3E745D?style=flat-square&logo=fontforge) | |  ![Google Suite](https://img.shields.io/badge/-Google%20Suite-white?style=flat-square&logo=google) |
-| ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure) | | | | | |
-| ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | | | | | |
-| ![Vultr](https://img.shields.io/badge/-Vultr-007BFC?style=flat-square&logo=vultr) | | | | | |
-| ![GCore](https://img.shields.io/badge/-GCore-FFA518?style=flat-square&logo=gcore) | | | |
-| ![TailorMadeServers](https://img.shields.io/badge/-TailorMadeServers-3366CC?style=flat-square) | | | |
 
 ## 🏆 Awards
 
