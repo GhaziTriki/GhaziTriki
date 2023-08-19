@@ -4,7 +4,7 @@ I'm delighted to see you here! Let's connect and get to know each other better.
 
 [![BigBlueButton Badge](https://img.shields.io/badge/BigBlueButton-Core%20Committer-283274?style=social&logo=BigBlueButton&link=https://github.com/bigbluebutton/bigbluebutton/graphs/contributors)](https://github.com/bigbluebutton/bigbluebutton/graphs/contributors)
 
-### About Me
+## About Me
 
 I'm a dynamic Technical Director hailing from Tunisian shores, known for my resourceful strategies in technology and innovation globally. Currently, at [RIADVICE](https://riadvice.tn), I am redefining the technological landscape. My contributions are far-reaching, as I've been instrumental in pioneering strategic consulting services and crafting hybrid infrastructures that seamlessly blend bare-metal and cloud technologies.
 
@@ -29,7 +29,7 @@ Here are the top 5 ways you can connect with me to explore limitless possibiliti
 [![Telegram Badge](https://img.shields.io/badge/-ghazitriki-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ghazitriki)
 [![Matrix Badge](https://img.shields.io/badge/-@ghazitriki-black?style=flat-square&logo=matrix)](https://matrix.to/#/@ghazitriki:matrix.org)
 
-### ⌨️ Open-source projects
+## ⌨️ Open-source projects
 
 <table>
   <thead align="center">
@@ -80,11 +80,11 @@ Here are the top 5 ways you can connect with me to explore limitless possibiliti
   </tbody>
 </table>
 
-## 🧗🏾 My best challenges stories
+## 🧗🏾 Some unforgettable journeys
 
-Leading by example, I spearheaded a visionary project – a public cloud web-conferencing platform capable of hosting 12,000 concurrent users. Not stopping there, I orchestrated Mainz University's transformation, empowering them to accommodate a staggering 50,000 concurrent users for web-conferencing. My architectural prowess even graced Virgin Voyages cruise ships, where a cutting-edge web-conferencing platform now sails the seas. 🛥️
+Leading by example, I spearheaded a visionary project – a public cloud web-conferencing platform capable of hosting 12,000 concurrent users. Not stopping there, I orchestrated [Mainz University's transformation](https://box.hu-berlin.de/d/62413f48b0554111ac6d/files/?p=%2FChristoph-Martin-bbb.rlp.net-meeting%202021-02-26.pdf&dl=1), empowering them to accommodate a staggering 50,000 concurrent users for web-conferencing. My architectural prowess even graced Virgin Voyages cruise ships, where a cutting-edge web-conferencing platform now sails the seas. 🛥️
 
-##  Skills & Technologies
+## 👨🏻‍💻 Skills & Technologies
 
 |   Programming Languages    |    Frameworks     |    DevOps & CI    |       Build       |   Software Tools   |     Databases     |
 |:-------------------------:|:-----------------:|:-----------------:|:-----------------:|:------------------:|:-----------------:|
@@ -131,7 +131,7 @@ Imagine, 40 speakers scattered across the stadium, waiting for the tap of a fan'
 With this innovation, we garnered over 60+ global awards and bridged the gap between teams and fans, rekindling the passion that knows no bounds. A few prestigious accolades include Cannes Lion, Dubai Lynx, and CLIO Awards. [The "Mobilizing The 12th Man" project has stood out, earning 5 Silver Lions, 2 Bronze Lions, and a host of other honors.](https://github.com/GhaziTriki/GhaziTriki/blob/main/Mobilizing.md)
 
 
-## Open-source Achievements
+## 🚀 Open-source Achievements
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GhaziTriki&show=reviews,discussions_started,discussions_answered&&show_icons=true&theme=shadow_blue&rank_icon=github&count_private=true&include_all_commits=true&number_format=long)
 
